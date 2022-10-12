@@ -20,7 +20,8 @@ Publish your own cool "portfolio" under 5 minutes without any code at all!
 
 1. Change the "username" key with your prefered username.
 2. Change the "favicon" key with the link of a custom icon if you have one otherwise just leave it as it is.
-3. Change each one of the "index" keys with the social media you want [^1] :
+3. Change each one of the "index" keys with the social media you want :
+
 * 0 if you want Facebook
 * 1 if you want Twitter
 * 2 if you want Instagram
@@ -36,8 +37,6 @@ Publish your own cool "portfolio" under 5 minutes without any code at all!
 * 12 if you want Skype
 * 13 if you want GitHub
 * 14 if you want Spotify
-
-[^1] : These indexes may change.
 
 4. Last but not least, Change each "link" key with the link to your social media account
 
